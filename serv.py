@@ -1,5 +1,4 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
-from queue import Empty
 
 
 class Serv(BaseHTTPRequestHandler):
